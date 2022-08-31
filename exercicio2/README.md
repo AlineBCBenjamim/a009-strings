@@ -1,3 +1,4 @@
+
 # Exercício 2
 
 Observe a string abaixo.
